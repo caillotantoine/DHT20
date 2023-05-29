@@ -255,7 +255,7 @@ the read calls. (0.2.0)
 
 - improve unit tests.
 - investigate 
-  - sensor calibration ([from ASAIR](https://asairsensors.com/product/dht20-sip-packaged-temperature-and-humidity-sensor/), similar to [ATH20](https://files.seeedstudio.com/wiki/Grove-AHT20_I2C_Industrial_Grade_Temperature_and_Humidity_Sensor/AHT20-datasheet-2020-4-16.pdf)
+  - sensor calibration ([from ASAIR](https://asairsensors.com/product/dht20-sip-packaged-temperature-and-humidity-sensor/), similar to [ATH20](https://files.seeedstudio.com/wiki/Grove-AHT20_I2C_Industrial_Grade_Temperature_and_Humidity_Sensor/AHT20-datasheet-2020-4-16.pdf))
   - can sensor address be changed?
 - investigate optimizing timing in readStatus()
   - delay(1) ==> microSeconds(???).
